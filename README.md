@@ -1,6 +1,14 @@
 stlcoin
 =======
 
+Install Windows:
+
+just click on stlcoin-0.8.6-win32-setup.exe
+
+Install Linux:
+If all Qt development libraries already installed same needed for bitcoin
+just click on binaries/stlcoin-qt
+
 STLcoin 
 
 For the STLcoin wallet to sync must, Select Help -> Debug Window, then click Console Tab.  
