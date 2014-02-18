@@ -1,6 +1,9 @@
 stlcoin
 =======
 
+Both Windows and Linux are together, click download Zip to right.
+unzip
+
 Install Windows:
 
 just click on stlcoin-0.8.6-win32-setup.exe
