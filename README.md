@@ -12,7 +12,7 @@ Install Linux:
 If all Qt development libraries already installed same needed for bitcoin
 just click on binaries/stlcoin-qt  no need to compile/build
 
-If need to build Linux goto:
+If need to build client on Linux then goto:
 https://github.com/stlcoin/stl
 
 -STLcoin 
